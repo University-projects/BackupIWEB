@@ -28,8 +28,7 @@ class ViewController: UIViewController {
     }
     @IBAction func updateMundo(_ sender: UIButton) {
     }
-    @IBAction func updateAlpha(_ sender: UISlider) {
-        
+    @IBAction func updateAlpha(_ sender: UISlider
     }
 }
 
